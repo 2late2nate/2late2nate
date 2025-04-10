@@ -1,7 +1,7 @@
-## About me
-- Aspiring programmer
-- Hobbies: art, writing, programming
-- Currently learning: html, css, python, django
+## about me
+- aspiring programmer
+- hobbies: art, writing, programming
+- currently learning: html, css, python, django
 
-## Projects
-- None at the moment
+## projects
+- none at the moment
